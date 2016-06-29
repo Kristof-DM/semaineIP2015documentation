@@ -31,6 +31,8 @@ Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 - Equipe 6 : système de hotline (tel) pour la 'victime' - pdf, odp
 - Equipe 7 : actualisation en temps réel de la position - pdf, odp
 
+Article les Echos (29/06/2016) : PROTO204, le lieu improbable du plateau de Saclay (Catherine Moal)
+
 ##### jeudi 15 octobre 2015
 
 Valisette de l'innovateur - [png](docs/KitdeSurvieDeLInnovateur.png), svg
