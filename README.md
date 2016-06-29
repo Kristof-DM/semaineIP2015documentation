@@ -31,7 +31,7 @@ Fonctionnalités & Usages - Synthèse (pdf, odp, freemind)
 - Equipe 6 : système de hotline (tel) pour la 'victime' - pdf, odp
 - Equipe 7 : actualisation en temps réel de la position - pdf, odp
 
-Article les Echos (29/06/2016) : PROTO204, le lieu improbable du plateau de Saclay (Catherine Moal)
+Article les Echos (29/06/2016) : PROTO204, le lieu improbable du plateau de Saclay (Catherine Moal) http://www.lesechos.fr/thema/0211074552379-proto204-le-lieu-improbable-du-plateau-de-saclay-2010453.php
 
 ##### jeudi 15 octobre 2015
 
